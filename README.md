@@ -14,7 +14,7 @@
 <p><strong>Decrypt message:</strong> ./stego -o output.txt -i output.bmp -encrypt</p>
 <p>If all worked properly output.txt will match input.txt</p>
 
-<h1>Comming soon</h1>
+<h1>Coming soon</h1>
 <ul>
     <li>Probably changing "-encrypt" and "-decrypt" to "-encode" and "-decode" as it's more accurate</li>
     <li>Currently messages are terminated by a chr 2, obviously an issue if you want to encode a file (like another image). Going to change this.</li>
